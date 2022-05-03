@@ -1,0 +1,7 @@
+Comandos:
+
+git init - inicia repositório git no diretório em questão
+git add - move arquivos e começa o início ao versionamento do mesmo
+git status - diz se o arquivo está unmodified, untracked, etc.
+
+
