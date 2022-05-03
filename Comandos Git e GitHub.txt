@@ -6,3 +6,4 @@ git status - diz se o arquivo está unmodified, untracked, etc.
 git commit - faz o commit e gera o snapshot
 
 git branch -M main - renomeia branch atual para "main"
+git push origin main - faz o push do repositório local para o repositório remoto
